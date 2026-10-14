@@ -11,7 +11,7 @@
 </tr>
 </table>
 
-# KnightZ993án Hernández Castillo
+# KnightZ993
 ### Desarrollo de software y desarrollo web
 
 Con interés en crear aplicaciones y sitios web útiles y seguir mejorando mis bases de programación.
