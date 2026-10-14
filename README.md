@@ -1,68 +1,42 @@
-
 ## Header
-> Editing this section in the inspector.
-Hi, I'm **exprobi**. This README is tuned for **personal brand** with a GitHub visual system.
+Hola, soy **Adrián Hernández Castillo**. Desarrollo de software y web.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=exprobi&theme=github-dark" alt="exprobi hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=KnightZ993&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=KnightZ993&theme=github-dark" alt="KnightZ993 hero section" />
   </picture>
 </p>
-## About Me
-Shapes the short profile story and positioning.
+## Sobre mí
+Desarrollo de software y web, con interés en crear aplicaciones y sitios web útiles y seguir mejorando mis bases de programación. Telde, Gran Canaria.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=exprobi&theme=github-dark" alt="exprobi about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=KnightZ993&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=KnightZ993&theme=github-dark" alt="KnightZ993 about section" />
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+Java · Kotlin · Python · Django · JavaScript · HTML · CSS · SQL · PostgreSQL · Jetpack Compose
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=exprobi&theme=github-dark" alt="exprobi stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=KnightZ993&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=KnightZ993&theme=github-dark" alt="KnightZ993 stack section" />
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=exprobi&theme=github-dark" alt="exprobi stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=exprobi&theme=github-dark" alt="exprobi projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=KnightZ993&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=KnightZ993&theme=github-dark" alt="KnightZ993 stats section" />
   </picture>
 </p>
 ## Heatmap
-Animated year-long contribution calendar.
+Calendario de contribuciones del último año.
+
 ## Connect
-Contact and social links will appear here.
+Contacto: adrihrndz11@gmail.com
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=exprobi&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=exprobi&theme=github-dark" alt="exprobi social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=KnightZ993&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=KnightZ993&theme=github-dark" alt="KnightZ993 social section" />
   </picture>
 </p>
-
-
-
-# KnightZ993
-### Desarrollo de software y desarrollo web
-
-Con interés en crear aplicaciones y sitios web útiles y seguir mejorando mis bases de programación.
-
-## Tecnologías
-- Java para programación y aplicaciones
-- Python y Django para desarrollo web
-- HTML, CSS y JavaScript para interfaces web
-- PostgreSQL y SQL para bases de datos
-- Kotlin y Jetpack Compose para Android
-
-
