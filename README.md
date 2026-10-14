@@ -10,5 +10,4 @@ Con interés en crear aplicaciones y sitios web útiles y seguir mejorando mis b
 - PostgreSQL y SQL para bases de datos
 - Kotlin y Jetpack Compose para Android
 
-## En qué me estoy centrando
-Conectar interfaces, lógica y datos, y mejorar la organización y documentación del código.
+
