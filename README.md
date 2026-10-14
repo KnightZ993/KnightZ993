@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="50%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=adri&theme=aurora&style=terminal&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=KnightZ993&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=adri&theme=aurora&style=terminal&mode=dark" width="100%" alt="adri portrait" />
 </picture></td>
 <td width="50%" valign="top"><picture>
