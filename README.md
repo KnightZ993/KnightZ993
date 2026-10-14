@@ -41,11 +41,9 @@ Java · Kotlin · Python · Django · JavaScript · HTML · CSS · SQL · Postgr
 Calendario de contribuciones del último año.
 
 ## Connect
-Contacto: adrihrndz11@gmail.com
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=KnightZ993&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=KnightZ993&theme=github-dark" alt="KnightZ993 social section" />
-  </picture>
+  <a href="https://github.com/KnightZ993"><img src="https://img.shields.io/badge/GitHub-KnightZ993-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:adrihrndz11@gmail.com"><img src="https://img.shields.io/badge/Email-adrihrndz11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-tu--usuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
