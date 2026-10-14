@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="42%" valign="top"><picture>
+<td width="22%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=adrihrndz11-hub&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=adrihrndz11-hub&theme=aurora&style=terminal&mode=dark" width="100%" alt="adrihrndz11-hub portrait" />
 </picture></td>
-<td width="58%" valign="top"><picture>
+<td width="78%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=adrihrndz11-hub&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=adrihrndz11-hub&theme=aurora&style=terminal&mode=dark" width="100%" alt="adrihrndz11-hub wordmark" />
 </picture></td>
