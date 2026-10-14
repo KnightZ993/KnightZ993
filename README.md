@@ -45,5 +45,5 @@ Calendario de contribuciones del último año.
 <p align="center">
   <a href="https://github.com/KnightZ993"><img src="https://img.shields.io/badge/GitHub-KnightZ993-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:adrihrndz11@gmail.com"><img src="https://img.shields.io/badge/Email-adrihrndz11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/adrian-hernandez-castillo-902a672ba"><img src="https://img.shields.io/badge/LinkedIn-tu--usuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/adrian-hernandez-castillo-902a672ba"><img src="https://img.shields.io/badge/LinkedIn-Adrián-Hernández-Castillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
