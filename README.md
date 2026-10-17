@@ -8,13 +8,6 @@ Desarrollo de software y web, con interés en crear aplicaciones y sitios web ú
 ## Skills
 Java · Kotlin · Python · Django · JavaScript · HTML · CSS · SQL · PostgreSQL · Jetpack Compose
 
-
-## GitHub Stats
-
-
-## Heatmap
-Calendario de contribuciones del último año.
-
 ## Connect
 
 <p align="center">
